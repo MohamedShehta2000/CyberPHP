@@ -1,4 +1,6 @@
 # **PHP for Hackers**  
+![4f4a8f48-d899-4a13-9228-a726b0dd6be8](https://github.com/user-attachments/assets/53b6cd9b-de1b-4dbc-abd8-7d480962882d)
+
 
 ## **Setup Apache & PHP on Linux**  
 
